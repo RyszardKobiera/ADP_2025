@@ -28,6 +28,7 @@ Update the table (today you need to fill at least the first two columns)
 | Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | A/EAPIAW | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
 | Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | | | Oliwia Kozlowska, Nikola Wiejak |
 | Kozaryna Zofia | [zgruba](https://github.com/zgruba) | | | Kornel Natoński, Kobiera Ryszard |
+| Kobiera Ryszard | [RyszardKobiera](https://github.com/RyszardKobiera) | ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska, Ignacy Makowski|
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
